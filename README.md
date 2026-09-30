@@ -159,6 +159,9 @@ The notebook distinguishes between the information provided by total sales and a
 ---
 
 # Exercise 2 — Education Analysis: Student Performance Analysis
+<p align="center">
+<img src="./screenshots/screen 3.png" width="900">
+</p>
 
 ## Objective
 
