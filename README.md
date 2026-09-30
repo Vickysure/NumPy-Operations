@@ -23,6 +23,12 @@ This exercise demonstrates how NumPy can be used to:
 - Build and sum series terms
 - Investigate how increasing the number of terms affects an approximation
 
+<p align="center">
+<img src="./screenshots/screen 2.png" width="900">
+</p>
+
+---
+
 ## Technologies Used
 
 - **Python**
