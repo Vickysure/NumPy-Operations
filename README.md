@@ -2,6 +2,10 @@
 
 A practical NumPy exercise notebook covering **business analytics, education data analysis, mathematical operations, trigonometric series, and convergence**.
 
+<p align="center">
+<img src="./screenshots/screen 1.png" width="900">
+</p>
+
 ## Overview
 
 This exercise demonstrates how NumPy can be used to:
