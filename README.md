@@ -334,6 +334,9 @@ A mean alone does not show whether:
 ---
 
 # Exercise 3 — Engineering and Scientific Computing: Trigonometric Series and Convergence
+<p align="center">
+<img src="./screenshots/screen 4.png" width="900">
+</p>
 
 ## Objective
 
